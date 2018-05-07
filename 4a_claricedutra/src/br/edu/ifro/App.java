@@ -11,10 +11,6 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-/**
- *
- * @author 01118108256
- */
 public class App extends Application {
     
     @Override
